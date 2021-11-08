@@ -1,6 +1,6 @@
 # Hello_World
 Beginning the repository creating journey!
 
-Hi there!
+Hello!
 
 Suruchi here,I like exploring new things and I enjoy coding.
